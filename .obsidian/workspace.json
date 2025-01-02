@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "b12c892ef60b7f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff0e44494dc7443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "265842b6ef4e6ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Collection & Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04b9e07a14ff8875",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SpringCloud/images/Pasted image 20250102192458.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c9ba8c7c7540df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "640ef8931057b689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cfe9664f36bdf09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "836360db73c79eed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "@LoadBalancerClient",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4534ee597cda67f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76a1aece0cf12202",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d6b3e52e61022a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed780426bef83fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SpringCloud/images/Pasted image 20250102192458.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "456cdfb4d857ebed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SpringCloud/images/Pasted image 20250102192458.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b05007975e0f9aea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c79eda3eeeb902ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SpringCloud/images/Pasted image 20250102192458.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7cfe9664f36bdf09",
+  "lastOpenFiles": [
+    "SpringCloud/images/Pasted image 20250102193017.png",
+    "SpringCloud/images/Pasted image 20250102192458.png",
+    "SpringCloud/images/Pasted image 20250102193542.png",
+    "SpringCloud/SpringCloud实战/13. SpringCloud Alibaba Seata分布式事务.md",
+    "SpringCloud/images/Pasted image 20250102193451.png",
+    "Maven.md",
+    "SpringCloud/images/Pasted image 20250101140238.png",
+    "SpringCloud/images/Pasted image 20250102191200.png",
+    "SpringCloud/images/Pasted image 20250102191058.png",
+    "SpringCloud/images/Pasted image 20250102190849.png",
+    "SpringCloud/images/Pasted image 20250102190751.png",
+    "SpringCloud/images/Pasted image 20250102190740.png",
+    "SpringCloud/SpringCloud实战/3. 微服务架构编码base工程模块构建.md",
+    "SpringCloud/SpringCloud实战/1&2. 准备阶段.md",
+    "SpringCloud/SpringCloud实战/12. SpringCloud Alibaba sentinel 实现熔断与限流.md",
+    "SpringCloud/SpringCloud实战/11. SpringCloud Alibaba Nacos服务注册和配置中心.md",
+    "SpringCloud/SpringCloud实战/9. Gateway新一代网关.md",
+    "SpringCloud/SpringCloud实战/6. OpenFeign服务接口调用.md",
+    "SSM+Springboot/mybatis/5. Mybatis 扩展.md",
+    "SSM+Springboot/mybatis/3. Mybatis 结果封装.md",
+    "SSM+Springboot/mybatis/4. Mybatis 动态sql.md",
+    "Java/java8 新特性.md",
+    "Java/JUC.md",
+    "Java/Multi-thread.md",
+    "Java/1. Java 大牛路线.md",
+    "SpringCloud/SpringCloud实战/7. CircuitBreaker断路器.md",
+    "SpringCloud/SpringCloud实战/8. Sleuth（Micrometer）+ZipKin分布式链路追踪.md",
+    "SpringCloud/SpringCloud实战/5. LoadBalancer负载均衡服务调用.md",
+    "SpringCloud/SpringCloud实战/10. SpringCloud Alibaba入门简介.md",
+    "SpringCloud/SpringCloud实战/4. Consul 服务注册与发现.md",
+    "SpringCloud/简单入门理念（老版）/1. Spring Cloud 概览.md",
+    "SpringCloud/简单入门理念（老版）/2. Eureka注册中心.md",
+    "SpringCloud/简单入门理念（老版）",
+    "SpringCloud/简单入门理念（老版）/3. Ribbon负载均衡.md",
+    "SpringCloud/简单入门理念（老版）/4. Feign服务调用.md",
+    "SSM+Springboot/Spring MVC/4. 最佳实践.md",
+    "SpringCloud/SpringCloud实战",
+    "SpringCloud/test",
+    "test",
+    "新建文件夹",
+    "新字符串.txt",
+    "你好.txt",
+    "新建 文本文档.txt",
+    "Untitled",
+    "SpringCloud/images",
+    "Untitled.canvas"
+  ]
+}
