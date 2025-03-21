@@ -93,6 +93,8 @@
 ![[Pasted image 20240322195124.png]]
   
 - **引入`MyBatis-Plus`的依赖**  
+MyBatisPlus官方提供了starter，其中集成了Mykatis和MybatisPlus的所有功能，并且实现了自动装配效果。
+因此我们可以用MybatisPlus的starter代替Mybatis的starter
   
 ```xml
 <dependency>
