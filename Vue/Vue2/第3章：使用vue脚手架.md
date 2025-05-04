@@ -92,7 +92,7 @@ export default {
 
 # 3.3 props 配置项（父传子首选）
 
-![[Pasted image 20250113163314.png]]
+
 
 App.vue
 ```vue

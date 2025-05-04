@@ -11,12 +11,12 @@
             "id": "8d87e21d8da80a42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Git/第1章 概述.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "HTML+CSS/CSS3笔记.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CSS3笔记"
             }
           }
         ]
@@ -38,8 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -48,13 +51,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"HTML+CSS/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/第1章 概述.md",
+                "file": "Vue/Vue2/第3章：使用vue脚手架.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "第3章：使用vue脚手架 的反向链接列表"
             }
           },
           {
@@ -102,10 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/第1章 概述.md",
+                "file": "Vue/Vue2/第3章：使用vue脚手架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "第3章：使用vue脚手架 的出链列表"
             }
           },
           {
@@ -115,8 +126,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/第1章 概述.md"
-              }
+                "file": "HTML+CSS/CSS3笔记.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CSS3笔记 的大纲"
             }
           }
         ],
@@ -138,61 +158,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "7cfe9664f36bdf09",
+  "active": "8d87e21d8da80a42",
   "lastOpenFiles": [
+    "HTML+CSS/CSS2笔记.pdf",
+    "Git/第3章 Git常用命令.md",
+    "Git/第2章 Git安装.md",
+    "Git/第1章 概述.md",
     "Git/第6章 GitHub操作.md",
     "Git/第5章 Git团队协作机制.md",
     "Git/第4章 Git分支操作.md",
-    "Git/第3章 Git常用命令.md",
-    "Git/第2章 Git安装.md",
-    "Linux/Linux.md",
-    "HTML+CSS/HTML4笔记.pdf",
-    "Promise/1. Promise 介绍与基本使用.md",
-    "HTML+CSS/HTML.md",
-    "HTML+CSS/HTML5笔记.pdf",
-    "HTML+CSS/CSS3笔记.pdf",
-    "HTML+CSS/CSS2笔记.pdf",
-    "HTML+CSS",
     "Git/第9章 国内代码托管中心-码云.md",
     "Git/第8章 IDEA集成GitHub.md",
     "Git/第7章 IDEA集成Git.md",
+    "Lombok.md",
+    "Uniapp/Day1.md",
+    "Vue/Vue2/第6章：vue-router路由.md",
+    "Vue/Vue2/第4章：Vue中的Ajax请求.md",
+    "Vue/Vue2/第5章：vuex.md",
+    "Vue/Vue2+Vue3(hm)/第4章：Vue3.x大事件后台管理系统.md",
+    "Vue/Vue3/Vue3快速上手.md",
+    "Vue/Vue3/TypeScript 极速梳理.pdf",
+    "Vue/Vue3/1. Vue3简介.md",
+    "Vue/Vue2+Vue3(hm)/第2章：Vue2.x智慧商城移动端项目实战.md",
+    "Vue/Vue2+Vue3(hm)/第1章：Vue2.x技术精讲.md",
+    "Vue/Vue2+Vue3(hm)/第3章：Vue3.x 技术精讲.md",
+    "Vue/Vue2/第1章：Vue核心.md",
+    "HTML+CSS/CSS3笔记.pdf",
+    "HTML+CSS/HTML5笔记.pdf",
+    "redis/redis速通学习.md",
+    "redis/Pasted image 20250225202815.png",
+    "Vue/Vue2/第3章：使用vue脚手架.md",
+    "HTML+CSS/HTML4笔记.pdf",
+    "SSM+Springboot/Spring MVC/1. 请求处理.md",
+    "SSM+Springboot/Spring/2. Spring-容器.md",
+    "HTML+CSS",
     "Promise/images/Pasted image 20250312210245.png",
-    "Promise/5. async 与 await.md",
-    "Promise/4. Promise 自定义封装.md",
-    "Promise/3. Promise 关键问题.md",
-    "Promise/2. Promise API.md",
     "Android开发/Pasted image 20250312161254.png",
     "Promise/images",
     "Promise",
     "Android开发/Pasted image 20250312160220.png",
-    "Vue/Vue2+Vue3(hm)/第3章：Vue3.x 技术精讲.md",
-    "Vue/Vue2+Vue3(hm)/第2章：Vue2.x智慧商城移动端项目实战.md",
-    "Vue/Vue2+Vue3(hm)/第1章：Vue2.x技术精讲.md",
-    "Uniapp/Day1.md",
-    "Uniapp/Day2.md",
-    "Android开发/第1章 Android的开发环境搭建.md",
     "Android开发/Pasted image 20250312160548.png",
     "Android开发/images/Pasted image 20250312155118.png",
-    "Android开发/Untitled.md",
     "Android开发/images/Pasted image 20250312155047.png",
     "Android开发/images/Pasted image 20250312155049.png",
     "01966E24.png",
     "029DC3A7.png",
-    "Vue/Vue2/第1章：Vue核心.md",
     "Android开发/images",
     "Android开发",
-    "Git/images/Pasted image 20250312113447.png",
-    "Git/第1章 概述.md",
-    "Git/第10章 自建代码托管平台-GitLab.md",
-    "Git/images",
     "Untitled.canvas"
   ]
 }

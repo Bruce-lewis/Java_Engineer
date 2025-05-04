@@ -1,7 +1,7 @@
 
 后端在线接口：[提交订单 - 小兔鲜儿-小程序版](https://www.apifox.cn/apidoc/shared-0e6ee326-d646-41bd-9214-29dbf47648fa/api-43426940)
 
-在线代码笔记：[小兔鲜儿 - 订单模块 | uniapp+vue3+ts](https://megasu.atomgit.net/uni-app-shop-note/rabbit-shop/order.html)
+在线代码笔记：[小兔鲜儿 - 项目起步 | uniapp+vue3+ts](https://megasu.atomgit.net/uni-app-shop-note/rabbit-shop/)
 
 
 ![[Pasted image 20250222143039.png]]
